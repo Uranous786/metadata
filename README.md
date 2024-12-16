@@ -1,0 +1,2 @@
+# metadata
+chainbase node
